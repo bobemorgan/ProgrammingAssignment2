@@ -1,10 +1,8 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## 
 ## makeCacheMatrix creates the special matrix that will be used to
-## cache (store and retrieve) the inverse of a sqaure matrix
+## cache (store and retrieve) the inverse of a square matrix
 ##
+
 
 makeCacheMatrix <- function(x = matrix()) {
 
